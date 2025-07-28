@@ -1,0 +1,4 @@
+dataset/*
+!dataset/info.txt
+models/*
+!models/info.txt
